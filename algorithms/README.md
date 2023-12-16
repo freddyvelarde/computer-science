@@ -8,6 +8,9 @@ However, insertion sort has several advantages: it is simple to implement, effic
 sets or lists that are mostly sorted, and it is an adaptive algorithm, meaning that it performs well
 on data sets that are already partially ordered.
 
+The time complexity for this algorithm is:
+$$O(n^2)$$
+
 Insertion sort code:
 
 - [Insertion sort - java](https://github.com/freddyvelarde/computer-science/blob/master/algorithms/java/src/InsertionSort.java)
