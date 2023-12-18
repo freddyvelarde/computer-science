@@ -11,7 +11,7 @@ on data sets that are already partially ordered.
 The time complexity for this algorithm is:
 $$O(n^2)$$
 The space complexity is:
-$$ O(1) $$
+$$O(1)$$
 
 Insertion sort code:
 
@@ -27,7 +27,7 @@ Merge Sort is a popular and efficient sorting algorithm that follows the divide-
 The time complexity is:
 $$O(n \log n)$$
 The space complexity is:
-$$ O(n) $$
+$$O(n)$$
 
 Merge Sort code:
 
