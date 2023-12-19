@@ -15,6 +15,7 @@ Programming languages:
 - [Head first java](https://www.rcsdk12.org/cms/lib/NY01001156/Centricity/Domain/4951/Head_First_Java_Second_Edition.pdf)
 - [Effective modern c++](<https://github.com/vpreethamkashyap/Library/blob/master/Scott%20Meyers-Effective%20Modern%20C%2B%2B_%2042%20Specific%20Ways%20to%20Improve%20Your%20Use%20of%20C%2B%2B11%20and%20C%2B%2B14-O%27Reilly%20Media%20(2014).pdf>)
 - [A Complete guide to programming in C++](https://www.idpoisson.fr/volkov/C++.pdf)
+- [Accelerated C++ Practical Programming](http://182.160.97.198:8080/xmlui/bitstream/handle/123456789/521/Accelerated%20C%2B%2B.pdf)
 
 Some libraries:
 
