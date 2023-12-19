@@ -7,6 +7,7 @@ Coding, algorithms and data structures books
 - [introduction to algorithms](https://www.inf.ufpr.br/andre/textos-CI1338-INFO7061/Introduction%20to%20Algorithms%20-%203rd%20Edition.pdf)
 - [Data structures and algorithm analysis in java](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjuxtH__4KDAxV8mZUCHRKyDWEQFnoECCcQAQ&url=https%3A%2F%2Fspada.uns.ac.id%2Fpluginfile.php%2F168137%2Fmod_folder%2Fcontent%2F0%2FMark%2520Allen%2520Weiss%2520-%2520Data%2520structures%2520and%2520algorithm%2520analysis%2520in%2520Java-Pearson%2520%2520%25282012%2529.pdf%3Fforcedownload%3D1&usg=AOvVaw1lAjv-CEFi2tBwqbNPkpuM&opi=89978449)
 - [Algorithms-4th-Edition](https://bank.engzenon.com/tmp/5e7f6ee5-d4dc-4aa8-9b0a-42d3c0feb99b/6062caf3-c600-4fc2-b413-4ab8c0feb99b/Algorithms-4th-Edition.pdf)
+- [Principles of ds using C and C++](https://repository.dinus.ac.id/docs/ajar/Principles_of_Data_Structures_Using_C_and_C++.pdf)
 
 Programming languages:
 
@@ -28,3 +29,7 @@ Math books:
 - [precalculus mathematics for calculus](https://drive.google.com/file/d/1U0gu-6wLEiIvGrqTwPg79cjjOUV0ufzM/view?usp=sharing)
 - [precalculus Sullivan](https://drive.google.com/file/d/18carCPjkvNkwYO_bPFC1jMLSvfyJg3OE/view?usp=sharing)
 - [Precalculus with limits](http://ruckdeschel.pbworks.com/w/file/fetch/97127124/preface.pdf)
+- [Precalculus by Carl Stitz](https://stitz-zeager.com/szprecalculus07042013.pdf)
+- [Algebra and trigonometry](https://lib.alfaisal.edu/pdf/AlgebraAndTrigonometry-LR.pdf)
+- [Blitzer precalculus](https://www.washoeschools.net/cms/lib/NV01912265/Centricity/Domain/1495/5th%20Edition%20Blitzer.pdf)
+- [College algebra](https://dokumen.pub/schaums-outline-of-college-algebra-fourthnbsped-0071821813-9780071821810.html)
