@@ -25,7 +25,7 @@ public class Graph<T> {
     adj.get(source).add(destination);
   }
 
-  public int findShortedPath(T source, T target) {
+  public int bfs(T source) {
     Queue<T> queue = new LinkedList<>();
     Map<T, Boolean> visited = new HashMap<>();
 
@@ -40,14 +40,14 @@ public class Graph<T> {
     while (!queue.isEmpty()) {
       T currentVertex = queue.poll();
 
-      /* System.out.println(currentVertex); */
+      System.out.println(currentVertex);
 
       if (adj.get(currentVertex) != null) {
         for (T v : adj.get(currentVertex)) {
           if (!visited.get(v)) {
-            if (v == target) {
-              return stepsCounter;
-            }
+            /* if (v == target) { */
+            /*   return stepsCounter; */
+            /* } */
             queue.add(v);
             visited.put(v, true);
           }

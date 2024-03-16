@@ -19,6 +19,7 @@ public class Main {
     g.addEdge("bar", "bat");
 
     /* g.printGraph(); */
-    System.out.println(g.findShortedPath("cab", "bat"));
+    g.bfs("car");
+    // System.out.println(g.findShortedPath("cab", "bat"));
   }
 }
