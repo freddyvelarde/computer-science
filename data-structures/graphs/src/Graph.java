@@ -24,8 +24,33 @@ public class Graph<T> {
 
     adj.get(source).add(destination);
   }
+  public void dfs(T source) {
+    Stack<T> stack = new Stack<>();
+    Map<T, Boolean> visited = new HashMap<>();
 
-  public int bfs(T source) {
+    for (T v : adj.keySet()) {
+      visited.put(v, false);
+    }
+
+    stack.push(source);
+    visited.put(source, true);
+
+    while (!stack.isEmpty()) {
+      T currentVertex = stack.pop();
+      System.out.println(currentVertex);
+
+      if (adj.get(currentVertex) != null) {
+        for (T neighbor : adj.get(currentVertex)) {
+          if (!visited.get(neighbor)) {
+            stack.push(neighbor);
+            visited.put(neighbor, true);
+          }
+        }
+      }
+    }
+  }
+
+  public void bfs(T source) {
     Queue<T> queue = new LinkedList<>();
     Map<T, Boolean> visited = new HashMap<>();
 
@@ -35,7 +60,6 @@ public class Graph<T> {
 
     queue.add(source);
     visited.put(source, true);
-    int stepsCounter = 0;
 
     while (!queue.isEmpty()) {
       T currentVertex = queue.poll();
@@ -53,9 +77,7 @@ public class Graph<T> {
           }
         }
       }
-      stepsCounter++;
     }
-    return 0;
   }
 
   public void printGraph() {
